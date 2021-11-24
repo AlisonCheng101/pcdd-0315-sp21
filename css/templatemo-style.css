@@ -50,11 +50,13 @@ p {
   margin-right: 50px;
   padding-bottom:40px;
   font-family: 'IBM Plex Mono', monospace;
+  font-weight: 500;
 
 }
 
 .section-heading h4{
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 .section-heading1{ 
@@ -65,42 +67,56 @@ p {
 .section-heading1 h1 {
   font-size:42px;
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 
 .section-heading1 h2 {
   font-size:34px;
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 .section-heading1 h3 {
   font-size:28px;
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 .section-heading1 h4 {
   font-size:22px;
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 
 .section-heading1 h5 {
   font-size:18px;
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+}
+
+.section-heading1 h6 {
+  font-size:14px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
 }
 
 
 .section-heading1 #body-button {
   font-size:14px;
+   font-family: 'Noto Sans', sans-serif;
 }
 
 .section-heading1 #secondary-text {
   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
 }
 
 .section-heading1 #tag {
   font-size: 12px;
   font-weight:700;
+   font-family: 'Noto Sans', sans-serif;
 }
 
 
