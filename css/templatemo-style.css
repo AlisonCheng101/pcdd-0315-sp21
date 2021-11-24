@@ -707,13 +707,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #fff;
   background-color:#FF4500;
 
 }
 .child span{
   visibility: hidden;
+   color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child:hover{
   width: 20%;
@@ -734,6 +736,10 @@ tr:nth-child(even) {
 }
 .child2 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child2:hover{
   width: 20%;
@@ -754,6 +760,10 @@ tr:nth-child(even) {
 }
 .child3 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child3:hover{
   width: 20%;
@@ -766,14 +776,16 @@ tr:nth-child(even) {
   border:none;
   width: 10%;
   transition: all 0.25s ease-in-out;
-  text-align: center;
-  font-size: 14px;
-  font-color: #666666;
+  text-align: center;  
   background-color:#FF668F;
 
 }
 .child4 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child4:hover{
   width: 20%;
@@ -788,13 +800,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#FF88C0;
 
 }
 .child5 span{
   visibility: hidden;
+
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child5:hover{
   width: 20%;
@@ -808,13 +822,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#FFAAE4;
 
 }
 .child6 span{
   visibility: hidden;
+
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .child6:hover{
   width: 20%;
@@ -828,13 +844,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 12px;
-  font-color: #fff;
   background-color:#FFCCFB;
 
 }
 .child7 span{
   visibility: hidden;
+
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 
 }
 .child7:hover{
@@ -857,6 +875,10 @@ tr:nth-child(even) {
 }
 .accent span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent:hover{
   width: 20%;
@@ -870,13 +892,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#35D4F5;
 
 }
 .accent2 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent2:hover{
   width: 20%;
@@ -890,13 +914,14 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#51F9F7;
 
 }
 .accent3 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent3:hover{
   width: 20%;
@@ -910,13 +935,14 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#6FFCE0;
 
 }
 .accent4 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent4:hover{
   width: 20%;
@@ -938,6 +964,9 @@ tr:nth-child(even) {
 }
 .accent5 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent5:hover{
   width: 20%;
@@ -958,6 +987,9 @@ tr:nth-child(even) {
 }
 .accent6 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent6:hover{
   width: 20%;
@@ -978,7 +1010,9 @@ tr:nth-child(even) {
 }
 .accent7 span{
   visibility: hidden;
-
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .accent7:hover{
   width: 20%;
@@ -1001,6 +1035,10 @@ tr:nth-child(even) {
 }
 .neutral span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral:hover{
   width: 20%;
@@ -1021,6 +1059,10 @@ tr:nth-child(even) {
 }
 .neutral2 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral2:hover{
   width: 20%;
@@ -1041,6 +1083,10 @@ tr:nth-child(even) {
 }
 .neutral3 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral3:hover{
   width: 20%;
@@ -1061,6 +1107,10 @@ tr:nth-child(even) {
 }
 .neutral4 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral4:hover{
   width: 20%;
@@ -1082,6 +1132,10 @@ tr:nth-child(even) {
 }
 .neutral5 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral5:hover{
   width: 20%;
@@ -1102,6 +1156,9 @@ tr:nth-child(even) {
 }
 .neutral6 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .neutral6:hover{
   width: 20%;
@@ -1122,6 +1179,9 @@ tr:nth-child(even) {
 }
 .neutral7 span{
   visibility: hidden;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 
 }
 .neutral7:hover{
@@ -1145,6 +1205,10 @@ tr:nth-child(even) {
 }
 .semantic span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .semantic:hover{
   width: 20%;
@@ -1158,13 +1222,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#FFD600;
 
 }
 .semantic2 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .semantic2:hover{
   width: 20%;
@@ -1178,13 +1244,15 @@ tr:nth-child(even) {
   width: 10%;
   transition: all 0.25s ease-in-out;
   text-align: center;
-  font-size: 14px;
-  font-color: #666666;
   background-color:#FA0303;
 
 }
 .semantic3 span{
   visibility: hidden;
+  color: #fff;
+   font-size: 12px;
+   font-family: 'Noto Sans', sans-serif;
+   font-weight:500;
 }
 .semantic3:hover{
   width: 20%;
